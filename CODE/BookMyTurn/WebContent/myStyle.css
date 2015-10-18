@@ -1,0 +1,193 @@
+
+	/* Modifies the text which are set to bold and italic */
+	.bold
+	{
+	    font-weight: bold;	
+		font-size: 20px;
+	}
+	.italic
+	{
+		font-style: italic;
+	}
+	/* Moddifies h1 elements */
+	h1
+	{
+		font-variant: small-caps;
+		color:  #00008B;
+		text-align: center;
+	}
+		/* Moddifies div elements */
+	div
+	{
+		display: block;
+		
+	} 
+		/* Moddifies p elements */
+	p
+	{
+		font-family: "arial",sans-serif;	
+	}
+		/* Moddifies img elements */
+	img
+	{
+		border: 0px;
+	   padding: 15px;
+	   width: 300px;
+	   height: 300px;
+	   float: left;
+		
+	}
+		/* Moddifies blockquote elements */
+	blockquote
+	{
+		font-family: "arial",sans-serif;
+	}
+		/* Moddifies anchor tag elements */
+	a
+	{
+		font-family: "arial",sans-serif;
+		color: #0A1A05;
+		text-decoration: none;
+	}
+		/* Moddifies the link elements */
+	a:link
+	{
+		font-weight: bold;
+	}
+		/* Moddifies the links hover elements */
+	a:hover
+	{
+		background-color: #F0FFEB;
+		color: #0A1A05;
+	}
+		/* Moddifies table elements */
+	#daily
+	{
+		width: 600px;
+		border-spacing: 1px;
+		background-color: #191970;
+		
+	}
+		/* Moddifies tr elements */
+	tr
+	{
+		text-align: center;
+		background-color: #d3d3d3;
+	}
+	
+	
+		/* Moddifies td elements */
+	td
+	{
+		width: 100px;
+		height: 70px;
+		
+	}
+		/* Moddifies table hover elements */
+	td:hover
+	{
+		background-color:white;
+		color: blue;
+	}
+		/* Moddifies th elements */
+	th
+	{
+		width: 200px;
+		
+	}
+		/* Moddifies table hover elements */
+	th:hover
+	{
+		background-color:red;
+		color: #fff;
+	}
+		/* Moddifies all the courses in table*/
+	.course
+	{
+		background-color:#00bfff;
+	}
+	/* Moddifies all the works in table*/
+	.work
+	{
+		background-color: #dcdcdc;
+	}
+	/* Moddifies all the lunch in table*/
+	.lunch
+	{
+		background-color:#FFFF99;
+	}
+	/* Moddifies all h2,h3,h4,h5 elements */
+	h2,h3,h4,h5
+	{
+		color: #00008b;
+		font-variant: small-caps;
+	}
+	/* Moddifies the audio tags */
+	audio
+	{
+		float:right;
+	}
+	/* Moddifies the iframe tags */
+	iframe
+	{
+		height:480px;
+		width:640px;
+	}
+	/* Moddifies the title */
+	#title
+	{
+		margin:14px;
+		font-weight: bold;
+		font-size: 14px;
+	}
+	/* Moddifies the header id */
+	#header 
+	{
+		width: 250px;
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		bottom: 0px;
+		padding: 0px;
+		background-color: #CCFFCC;
+		border-right: 2px solid #191970;
+		overflow: scroll;
+   }
+   /* Moddifies the nav id */
+   #nav
+   {
+	  color: #ffffff;
+      background-color:transparent;
+	  margin-left: 40px;
+	  margin-right: 20px;
+	  font-variant: small-caps;
+   }
+   /* Moddifies the body*/
+   body 
+   {
+		font-size: 105%;
+		background-color: #C2C2FF;
+   }
+   /* Moddifies the img tags */
+   img 
+   {
+		border: 1px;
+		padding: 15px;
+		margin-left: auto;
+		margin-right: auto;
+		height: 100px;
+		width: 100px;
+   }
+   /* Moddifies the content id */
+   #content 
+   {
+    margin-left: 300px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    color: #121312;
+    background-color: #C2C2FF;
+   }
+
+	
