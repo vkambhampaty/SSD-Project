@@ -1,0 +1,1 @@
+update user_db set role="user" where username="shyam" or username="dheeraj";
