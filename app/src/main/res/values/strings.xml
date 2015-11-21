@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyBBeeQ5cR4TeZ1G_o_uCucRdYS-jcrqqek</string>
+    <string name="app_name">Shuttle Tracking System</string>
+    <string name="admin">Administrator</string>
+    <string name="student">Student Login</string>
+    <string name="login_title">Admin Login Screen</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Signin</string>
+    <string name="signup">Sign up</string>
+    <string name="contact">Contact No</string>
+    <string name="emailid">Email ID</string>
+    <string name="address">Address</string>
+    <string name="driverloginbutton">Driver Login</string>
+    <string name="driverlogin">Driver Login Screen</string>
+    <string name="logout">Logout</string>
+    <string name="adddriver">Add New Driver</string>
+</resources>
